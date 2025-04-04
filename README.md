@@ -1,4 +1,4 @@
-# MIS SQL Assignemnt Samples – WSU Coursework
+# MIS SQL Assignment Samples – WSU Coursework
 
 This repository showcases SQL-focused projects completed as part of the Management Information Systems (MIS) curriculum at Washington State University.
 Each assignment demonstrates the practical application of SQL in database creation and data manipulation.
